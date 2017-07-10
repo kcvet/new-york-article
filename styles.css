@@ -1,0 +1,132 @@
+#top-header {
+		position: fixed;
+		margin-left: 30px;
+		background-color: white;
+		border-color: #e2e2e2;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 48px;
+		border-bottom: 1px solid #e2e2e2;
+}
+
+.nav-sprite{
+		height: 16px;
+		width: 16px;
+		display: inline-block;
+		line-height: 0;
+		vertical-align: middle;		
+	
+}
+
+.head-butt{
+		float: left;
+		margin-right: 6px;
+		height: 30px;
+		vertical-align: middle;
+		font-style: normal;
+		font-family: arial,helvetica;
+		display: inline-block;
+		text-transform: uppercase;
+		border-radius: 3px;
+		font-size: 0.6875rem;
+		padding: 7px 9px;
+		text-align: center;
+		vertical-align: middle;
+		color: #333;
+		cursor: pointer;
+		transition: background-color 0.3s;
+		background-color: white;
+		margin-top: 8px;
+		border: none;
+		}
+
+.head-butt:hover {
+		background-color: #e2e2e24d;
+	
+}		
+
+.button-text {
+		position: static;
+		width: auto;
+		height: auto;
+		margin: 0;
+		overflow: visible;
+		margin-right: 7px;
+		margin-left: 9px;
+		
+	
+	
+}
+#settings {
+		position: relative;
+		float: right;
+		margin-top: 8px;
+		background-color: white;
+		border: none;
+		display: inline-block;
+		margin-right: 30px;
+		cursor: pointer;
+}
+
+#settings img{
+		width: 30px;
+		height: 30px;
+	
+}
+
+#settings:hover {
+		background-color: #e2e2e24d;
+	
+}
+
+.user-b {
+		position: relative;
+		float: right;
+		margin-top: 8px;
+		background-color: #6288a5;
+		border-color: #4d7b9f;
+		color: #fff;
+		height: 30px;
+		font-weight: 700;
+		margin-right: 6px;
+		font-style: normal;
+		font-family: arial,helvetica;
+		display: inline-block;
+		text-transform: uppercase;
+		border-radius: 3px;
+		font-size: 0.6875rem;
+		padding: 7px 9px;
+		text-align: center;
+		vertical-align: middle;
+		cursor: pointer;
+		transition: background-color 0.3s;
+		border: none;
+	
+	
+}
+.user-b:hover {
+		background-color: #2e6895;
+	
+}
+#nav-butt {
+		box-shadow:0 3px 2px 0 rgba(0,0,0,0.06),inset -1px -1px 1px 0 rgba(0,0,0,0.02);
+		margin-left: -14px;
+		border: 1px solid #e2e2e2;
+	
+	
+}
+
+#logo {
+		text-align: center;
+		margin-left: 22%;
+	
+}
+
+#logo-pic {
+		vertical-align: center;
+		margin-top: 8px;
+		
+	
+	
+}
