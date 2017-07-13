@@ -169,6 +169,72 @@
 	
 }
 
+#latest-comments {
+		height: 360px;
+		width: 360px;
+		position: relative;
+		float: right;
+		
+		margin-top: 100px;
+}
+.latest-heading {
+		font-size: 0.75rem;
+		line-height: 0.9375rem;
+		font-weight: 700;
+		font-style: normal;
+		font-family: arial,helvetica;
+		color: #326891;
+		text-transform: uppercase;
+	
+}
+
+.comment-time {
+		font-size: 0.75rem;
+		line-height: 0.9375rem;
+		font-weight: 300;
+		font-family: arial, helvetica;
+		margin-left: 5px;
+		color: #999;
+		margin-bottom: 0;
+		
+}
+
+.commenter {
+		font-size: 0.8125rem;
+		line-height: 0.9375rem;
+		font-weight: 700;
+		font-style: normal;
+		font-family: arial, helvetica;
+		display:inline-block;
+		color: #000;
+		margin-bottom: 0;
+	
+	
+}
+.comment-text {
+		margin-top: 0;
+		font-size: 0.8125rem;
+		line-height: 1rem;
+		font-weight: 300;
+		font-style: normal;
+		font-family: arial, helvetica;
+		margin-bottom: 10px;;
+		color: #666;
+	
+	
+}
+
+#see-all {
+		font-size: 0.625rem;
+		line-height: 1.375;
+		font-weight: 500;
+		font-family: arial, helvetica;
+		display: inline-block;
+		text-transform: uppercase;
+		cursor: pointer;
+		color: #326891;
+	
+}
 .story-wrap {
 		vertical-align: middle;
 		width: 160px;
@@ -196,9 +262,174 @@
 		width: 1125px;
 		height: 8456px;
 		margin-top: 7px;
-		margin-left:  100px;
-		
-		
-	
+		margin-left:  100px;	
+}
+
+#section {
+		text-transform: uppercase;
+		font-style: normal;
+		text-decoration: none;
+		font-size: 0.8125rem;
+		font-weight: 700;
+		font-family: arial, helvetica;
+		letter-spacing: 0.05rem;
+		color: black;
+}
+#section:hover {
+		text-decoration: underline;
 	
 }
+
+#headline {
+		font-size: 2.125rem;
+		line-height: 2.375rem;
+		font-weight: 700;
+		font-family: georgia, "times new roman",times;
+		font-style: italic;
+		color: black;
+		margin-bottom: 10px;	
+}
+
+#social {
+		height: 30px;
+		padding-top:20px;
+		border-top: 1px solid #e2e2e2;
+		width: 100%;
+		font-size: 0.6875rem;
+		line-height: 0.75rem;
+		
+}
+
+#author {
+		font-weight: 700;
+		font-style: normal;
+		font-family: georgia;
+		margin-right: 5px;
+}
+#date {
+		text-transform: uppercase;
+}
+
+#main-img {
+		margin-top: 30px;
+		width: 100%;	
+}
+
+.caption-text {
+		max-width: 615px;
+		font-size: 0.875rem;
+		line-height: 1.125rem;
+		font-weight: 300;
+		font-style: normal;
+		font-family: georgia,"times new roman";
+		color: #666;
+		display: block;
+	
+}
+
+.credit {
+		font-size: 0.6875rem;
+		line-height: 1rem;
+		font-weight: 400;
+		font-style: normal;
+		font-family: georgia;
+		color: #999;
+	
+}
+
+
+
+.story-body {
+		float:left;
+		width: 705px;
+		position: relative;
+		color: #333;
+		font-size: 100%;
+		margin-top: 30px;
+}
+.story-body-text {
+		width: 570px;
+		margin-left: 75px;
+		color: #333;
+		font-size: 16px;
+		line-height: 23px;
+		font-weight: 400;
+		font-family: georgia;
+	
+}
+
+#infografic {
+		display:inline-block;
+		margin-left: 0;
+		margin-right: 0;
+		width: 945px;
+		margin-top: 15px;
+		margin-bottom: 15px;
+		border-top: 1px solid #e2e2e2;
+		padding-top: 15px;
+		border-bottom: 1px solid #e2e2e2;
+		padding-bottom: 15px;
+		color: #333;
+}
+
+#interactive-grafic{
+		position: relative;
+		width: 100%;
+		height: 576px;
+	
+}
+
+#interactive-headline {
+		font-size: 1.25rem;
+		line-height: 1.5 rem;
+		font-weight: 700;
+		font-style: normal;
+		font-family: georgia;
+		margin-bottom: 3px;
+		
+	
+}
+
+.interactive-text {
+		position: absolute;
+		font-family: georgia, "times new roman";
+		color: #333;
+		width:228px;
+	
+}
+
+.interactive-text-heading {
+		font-size: 11px;
+		font-weight: bold;
+		letter-spacing: 0.05em;
+		font-family: nyt-franklin,arial,helvetica;
+		line-height: 17px;
+		color: #000000;
+	
+}
+.interactive-text-normal {
+		font-family: arial,helvetica;
+		font-size: 14px;
+		line-height: 17px;
+		font-weight: 300;
+		color: #000000;
+	
+}
+
+
+.interactive-leadin {
+		font-size: 0.875rem;
+		line-height: 1.125rem;
+		font-weight: 400;
+		font-style: normal;
+		font-family: georgia;
+		margin-bottom: 10px;
+		color: #666;
+	
+}
+
+#resuming-story {
+		margin-top: 0;
+	
+}
+.
